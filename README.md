@@ -9,3 +9,15 @@ There are many different types of numbers with different names. Here are the typ
 A number with no fractional or decimal part. Cannot be negative.
 
 Examples: $0$, $1$, $2$, $3$, $4$...
+
+#### Natural Numbers
+
+Whole numbers from 1 and up. Some teachers say these are all the "counting numbers".
+
+Examples: $1$, $2$, $3$, $4$, $5$...
+
+#### Integers
+
+All whole numbers and their negative counterparts.
+
+Examples: ... $-4$, $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$, $4$...
