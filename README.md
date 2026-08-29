@@ -26,4 +26,4 @@ Examples: ... $-4$, $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$, $4$...
 
 Any number that can be written by dividing one integer by another--in plain English, any number that can be written as a fraction or ratio. (An easy way to remember this is to think of rational's root word "ratio".)
 
-Examples: $\frac{1}{2}$, (which equals $0.5$), $0.25$, (which equals $\frac{1}{4}$),
+Examples: $\frac{1}{2}$, (which equals $0.5$), $0.25$ (which equals $\frac{1}{4}$), $-7$ (which equals $\frac{-7}{1}$), $4.12$ (which equals $\frac{412}{100}$), $\frac{1}{3}$ (which equals $0.\overline{3}$)
