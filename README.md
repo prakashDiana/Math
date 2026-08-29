@@ -21,3 +21,9 @@ Examples: $1$, $2$, $3$, $4$, $5$...
 All whole numbers and their negative counterparts.
 
 Examples: ... $-4$, $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$, $4$...
+
+#### Rational Numbers
+
+Any number that can be written by dividing one integer by another--in plain English, any number that can be written as a fraction or ratio. (An easy way to remember this is to think of rational's root word "ratio".)
+
+Examples: $\frac{1}{2}$, (which equals $0.5$), $0.25$, (which equals $\frac{1}{4}),
