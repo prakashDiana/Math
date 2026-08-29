@@ -1,9 +1,11 @@
-(Excerpt from Math Middle School Notebook Workman, ii-iii)
+*The Complete Middle School Study Guide: Everything You Need to Ace Math in One Big Fat Notebook*, pages 2-3
 
-# Hi!
+# Types of Numbers and the Number Line
 
-These are the notes from my math class.
+There are many different types of numbers with different names. Here are the types of numbers used most often:
 
-Oh, who am I? Well, some people said I was the smartest kid in class.
+#### Whole Numbers
 
-I wrote everything you need to ace **math**, from fractions to the coordinate plane, and only the really important stuff in between--you know, the stuff that's usually on the test!
+A number with no fractional or decimal part. Cannot be negative.
+
+Examples: $0$, $1$, $2$, $3$, $4$...
